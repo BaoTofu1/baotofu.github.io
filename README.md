@@ -6,7 +6,7 @@
 ### Certification
 - IELTS Academic - Overall 7.0
 ### Work Experiences
-- 12 years of Academic Training
+- More than 12 years of Academic Training
 - Teacher Assistant
 ### Projects
 - 500 coding exercises from university and wecode 
